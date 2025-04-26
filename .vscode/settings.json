@@ -1,0 +1,7 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/Users/karimc/Desktop/Fundies 2/EclipseJars/javalib.jar",
+        "/Users/karimc/Desktop/Fundies 2/EclipseJars/tester.jar"
+    ]
+}

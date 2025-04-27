@@ -26,8 +26,8 @@ class ExamplesMaze {
   
     void testBigBang(Tester t) {
         this.initData();
-        MazeWorld w = new MazeWorld(new Maze(10, 10));
-        w.bigBang(1000, 1000, 0.2);
+        MazeWorld w = new MazeWorld(new Maze(20, 20));
+        w.bigBang(1000, 1000, 0.01);
       }
 
 
